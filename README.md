@@ -1,2 +1,2 @@
 # NYC-MTA-ridership-challenge
- NYC MTA ridership holidatychallenge at plotly 
+ NYC MTA ridership holidaty challenge at plotly 
