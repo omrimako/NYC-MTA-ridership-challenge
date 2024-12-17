@@ -162,7 +162,7 @@ def update_dashboard(metric, selected_modes):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(debug=True,use_reloader=False, port=8058)
+    app.run_server(debug=True)
 
 
 # In[ ]:
