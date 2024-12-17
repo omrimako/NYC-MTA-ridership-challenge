@@ -8,8 +8,6 @@ import dash
 from dash import dcc, html, dash_table
 from dash.dependencies import Input, Output
 import pandas as pd
-import plotly.graph_objs as go
-import plotly.express as px
 
 # Prepare the data
 #df = pd.read_csv("/Users/omri_/Github_projects/Dask_competition_MTA/mta_data_ridership1.csv")
